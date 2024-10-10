@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Rikvip – Trang Cá Cược Thể Thao Uy Tín Số 1 Đến Từ Châu Âu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Rikvip <https://rikvip.com.mx/>`_ là một nền tảng game bài đổi thưởng trực tuyến hàng đầu tại Việt Nam, nổi bật với các tính năng tiên tiến, dịch vụ đa dạng, và cơ hội đặt cược hấp dẫn. Được công nhận hợp pháp và cấp phép bởi các tổ chức uy tín như PAGCOR, Chính phủ Malta và Cagayan, Rikvip cam kết mang đến cho người chơi trải nghiệm an toàn, minh bạch và chất lượng cao. Người chơi cũng được tận hưởng các dịch vụ nạp, rút tiền nhanh chóng và hệ thống bảo mật cao, đảm bảo an tâm trong mọi giao dịch.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 57 Đ. Hà Thị Đát, Tân Sơn Nhì, Tân Phú, Hồ Chí Minh.
 
-   This project is under active development.
+Phone: 0325110578. 
 
-Contents
---------
+Email: info@rikvip.com.mx. 
 
-.. toctree::
+Website: https://rikvip.com.mx/
 
-   usage
-   api
+#rikvip #trangchurikvip #dangkyrikvip #dangnhaprikvip #linkrikvip
